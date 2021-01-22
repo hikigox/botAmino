@@ -42,4 +42,26 @@ In any commands start with "."
 |yS|I never|send a question|
 |yP|I never|look points|
 |yC|I never|finish game i never|
+|tt|tutty fruti|initial tutty fruti game|
+|ttL|tutty fruti|Random letter |
+|ttC|tutty fruti|close game tutty fruti|
+|ttT|tutty fruti|send results about answers|
+|ttA @user theme|tutty fruti|add a new word a the theme and add points 
+|iS|sinopsis|send a sinopsis|
+|sF|sinopsis|final sinopsis game|
+|pS|Guess Picture |send a random picture|
+|pF|Guess Picture|final game guess picture|
+|oP|opening|inicial opening game|
+|opf|opening|final opening game|
+|opN|opening|next part opening|
+
+## Install
+you need :
+python 
+mongodb
+
+
+# Tutorials
+Video reference
+Video install
 
